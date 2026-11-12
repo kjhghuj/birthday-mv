@@ -1,0 +1,15 @@
+# 渲染输出 / 生成产物(可用脚本重新生成)
+out/
+stems/
+audio.wav
+
+# Python 环境
+.venv*/
+__pycache__/
+*.pyc
+
+# 备份
+_backup_*/
+
+# macOS
+.DS_Store
